@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.API", "ToDoList.API\ToDoList.API.csproj", "{3C40477A-1977-4AA1-9FF0-D7E659BB4217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Domain", "ToDoList.Domain\ToDoList.Domain.csproj", "{55878A9C-A0E0-496D-9566-37201C22E5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Core", "ToDoList.Core\ToDoList.Core.csproj", "{C2026AD1-D1B9-427F-A435-6AEB02FB30FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Persistence", "ToDoList.Persistence\ToDoList.Persistence.csproj", "{D2F04870-16DC-4843-9191-0BD8A4A0657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C40477A-1977-4AA1-9FF0-D7E659BB4217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C40477A-1977-4AA1-9FF0-D7E659BB4217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C40477A-1977-4AA1-9FF0-D7E659BB4217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C40477A-1977-4AA1-9FF0-D7E659BB4217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55878A9C-A0E0-496D-9566-37201C22E5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55878A9C-A0E0-496D-9566-37201C22E5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55878A9C-A0E0-496D-9566-37201C22E5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55878A9C-A0E0-496D-9566-37201C22E5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2026AD1-D1B9-427F-A435-6AEB02FB30FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2026AD1-D1B9-427F-A435-6AEB02FB30FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2026AD1-D1B9-427F-A435-6AEB02FB30FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2026AD1-D1B9-427F-A435-6AEB02FB30FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F04870-16DC-4843-9191-0BD8A4A0657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F04870-16DC-4843-9191-0BD8A4A0657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F04870-16DC-4843-9191-0BD8A4A0657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F04870-16DC-4843-9191-0BD8A4A0657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
